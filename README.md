@@ -1,2 +1,2 @@
 # python
-send email using simple python script
+This programs are helpful to learn the advace python concepts
